@@ -25,4 +25,12 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
