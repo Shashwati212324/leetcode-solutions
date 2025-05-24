@@ -1,6 +1,6 @@
 public class Solution {
     public static int majorityElement(int[] nums) {  
-// APPROACH - 1 - WITHOUT SRTING, USING LOOP
+// APPROACH - 1 - WITHOUT SRTING, USING LOOP ---- outter loop O(n) and inner loop O(n) total time comp= O(n2)
         // if(nums.length == 1){
         //     return nums[0];
         // }    
@@ -21,7 +21,7 @@ public class Solution {
         // }
         // return -1;
 
-// APPROACH - 2 - sorting the array
+// APPROACH - 2 - sorting the array ---- bubble sort-O(n2) and loop-O(n) so time comp = O(n2)
 
         // for(int i=0; i<nums.length-1; i++){
         //     for(int j =i+1; j>0;j--){
@@ -47,7 +47,7 @@ public class Solution {
             
         // }
         // return finalee; 
-// APPROACH - 3 - MOORE VOTING ALGORITHM
+// APPROACH - 3 - MOORE VOTING ALGORITHM - ---- O(n)
     int count = 0;
     int candidate = 0;
 
