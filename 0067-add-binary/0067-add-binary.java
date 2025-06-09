@@ -5,7 +5,6 @@ class Solution {
         int i = a.length() - 1;
         int j = b.length() - 1;
         int carry = 0;
-
         while (i >= 0 || j >= 0 || carry == 1) {
             int sum = carry;
 
@@ -15,7 +14,6 @@ class Solution {
             sb.append(sum % 2);  // add result bit
             carry = sum / 2;     // update carry
         }
-
         return sb.reverse().toString();
     }
 }
