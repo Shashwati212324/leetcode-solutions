@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Simulation
@@ -70,6 +71,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
