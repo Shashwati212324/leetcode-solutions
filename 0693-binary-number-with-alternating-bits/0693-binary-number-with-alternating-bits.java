@@ -1,17 +1,19 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
-        int prev = n % 2;
-        n = n / 2;
-        // Traverse through remaining bits
-        while (n > 0) {
-            int curr = n % 2;
-            // If current bit is same as previous
-            if (curr == prev)
+        boolean ans = false;
+        int x = n;
+        int i =0;
+        while(x>0){
+            int j=i+1;
+            if(((n>>i)&1) == ((n>>j)&1)){
                 return false;
-            prev = curr;
-            n = n / 2;
+            }else{
+                ans=true;
+            }
+            x=x>>1;
+            i=i+1;
         }
-        return true;
+        return ans;
         
     }
 }
