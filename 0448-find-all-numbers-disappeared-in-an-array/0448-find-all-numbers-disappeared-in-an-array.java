@@ -1,31 +1,22 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        Arrays.sort(nums);
-        ArrayList ar = new ArrayList();
-        if(nums[0] > 1){
-            for(int i = 1; i < nums[0]; i++){
-                ar.add(i);
+        List<Integer> result = new ArrayList<>();
+
+        // Step 1: Mark presence by making nums[index] negative
+        for (int i = 0; i < nums.length; i++) {
+            int index = Math.abs(nums[i]) - 1;
+            if (nums[index] > 0) {
+                nums[index] = -nums[index];
             }
         }
-        for(int i =1; i<nums.length;i++){
-            int a1 = nums[i-1];
-            int a2 = nums[i];
-            int diff= a2-a1;
-            if(a1!=a2 && diff>1){
-                for(int j=0;j<diff-1;j++){
-                    ar.add(a1+1);
-                    a1+=1;
-                   
-                }
+
+        // Step 2: Find indexes that remain positive => those numbers are missing
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                result.add(i + 1);
             }
         }
-        // Edge case: Missing numbers at the end (e.g. [1,2,3] but n = 5 => 4 and 5 are missing)
-        int n = nums.length;
-        if(nums[n - 1] < n){
-            for(int i = nums[n - 1] + 1; i <= n; i++){
-                ar.add(i);
-            }
-        }
-        return ar;
+
+        return result;
     }
 }
