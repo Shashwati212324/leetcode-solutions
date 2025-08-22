@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | [0012-integer-to-roman](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
+| [1205-defanging-an-ip-address](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 ## Bit Manipulation
 |  |
 | ------- |
