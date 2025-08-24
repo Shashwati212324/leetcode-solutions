@@ -148,6 +148,7 @@ My solutions to LeetCode problems
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -156,6 +157,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
