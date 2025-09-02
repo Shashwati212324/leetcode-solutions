@@ -12,6 +12,7 @@ My solutions to LeetCode problems
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -190,4 +191,12 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
