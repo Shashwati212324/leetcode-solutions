@@ -10,22 +10,23 @@ class Solution {
 // D             500
 // M             1000
     
-    int i=-1;
+    int i=0;
     int no=0;
-    int l = s.length()-1;
-    for(i =0; i<l; i++){
+    int l = s.length();
+    char[] ch = s.toCharArray();
+    while(i<l-1){
         int j = i+1;
-        int n1= values(s.charAt(i));
-        int n2=values(s.charAt(j));
-        if(n1<n2){
-            no+=n2-n1;
+        if(values(ch[i])>=values(ch[j])){
+            no+=values(ch[i]);
             i++;
         }else{
-            no+=n1;
+            no+=(values(ch[j])-values(ch[i]));
+            i=i+2;
         }
     }
-    if(i==l){
-        no+=values(s.charAt(i));
+    // handle last character if not processed
+    if (i == l - 1) {
+        no += values(ch[i]);
     }
     return no;
     
