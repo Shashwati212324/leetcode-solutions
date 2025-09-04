@@ -19,6 +19,7 @@ My solutions to LeetCode problems
 | [0728-self-dividing-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1585-the-kth-factor-of-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## String
 |  |
@@ -201,4 +202,8 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
