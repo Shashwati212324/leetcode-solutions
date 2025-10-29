@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My solutions to LeetCode problems
 | [0476-number-complement](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
