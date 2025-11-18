@@ -72,6 +72,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -248,6 +249,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0090-subsets-ii) |
