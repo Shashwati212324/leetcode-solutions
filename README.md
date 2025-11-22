@@ -36,6 +36,7 @@ My solutions to LeetCode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
+| [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -121,6 +122,7 @@ My solutions to LeetCode problems
 | [0202-happy-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@ My solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -280,4 +283,8 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
