@@ -98,6 +98,7 @@ My solutions to LeetCode problems
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -134,6 +135,7 @@ My solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -247,6 +249,7 @@ My solutions to LeetCode problems
 | [0022-generate-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +289,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
