@@ -37,6 +37,7 @@ My solutions to LeetCode problems
 | [0022-generate-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -247,6 +248,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -282,6 +284,7 @@ My solutions to LeetCode problems
 | [0077-combinations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
