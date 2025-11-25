@@ -60,6 +60,7 @@ My solutions to LeetCode problems
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
@@ -99,6 +100,7 @@ My solutions to LeetCode problems
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
