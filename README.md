@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | [0382-linked-list-random-node](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
@@ -158,6 +159,7 @@ My solutions to LeetCode problems
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
