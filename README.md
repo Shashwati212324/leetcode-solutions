@@ -319,4 +319,12 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
