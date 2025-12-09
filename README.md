@@ -121,6 +121,7 @@ My solutions to LeetCode problems
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ My solutions to LeetCode problems
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
+| [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
 | ------- |
