@@ -20,13 +20,27 @@ class Solution {
         // }
         // return false;
     
-    //Approach -3 --------Hashset
+        //Approach -3 --------Hashset
+        // HashSet<Integer> set = new HashSet<>();
+        // for(int i=0; i<nums.length ;i++){
+        //     if(set.contains(nums[i])){
+        //         return true;
+        //     }
+        //     set.add(nums[i]);
+        // }
+        // return false;
+
+        //Approach -4 ---------Optimized Hashset
         HashSet<Integer> set = new HashSet<>();
-        for(int i=0; i<nums.length ;i++){
-            if(set.contains(nums[i])){
-                return true;
+        int left = 0;
+        int right = nums.length-1;
+        while(left<=right){
+            if(!set.add(nums[left]))return true;
+            if(right!=left){
+                if(!set.add(nums[right]))return true;
             }
-            set.add(nums[i]);
+            left++;
+            right--;
         }
         return false;
     }    
