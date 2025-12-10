@@ -36,7 +36,7 @@ class Solution {
         int right = nums.length-1;
         while(left<=right){
             if(!set.add(nums[left]))return true;
-            if(right!=left){
+            if(left!=right){
                 if(!set.add(nums[right]))return true;
             }
             left++;
