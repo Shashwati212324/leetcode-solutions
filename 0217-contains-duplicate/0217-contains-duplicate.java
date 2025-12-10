@@ -1,15 +1,15 @@
-import java.util.Arrays;
+import java.util.*;
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 //Approach -1
-        Arrays.sort(nums);  
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] == nums[i + 1]) {
-                return true;  
-            }
-        }
-        return false;  
+        // Arrays.sort(nums);  
+        // for (int i = 0; i < nums.length - 1; i++) {
+        //     if (nums[i] == nums[i + 1]) {
+        //         return true;  
+        //     }
+        // }
+        //return false;  
 //APPROACH - 2 ---- time limit exceeded - O(n2)
         // for(int i=0; i<nums.length ; i++){
         //     for(int j =i+1;j<nums.length;j++){
@@ -19,5 +19,16 @@ class Solution {
         //     }
         // }
         // return false;
-    }
+    
+    //Approach -3 --------Hashset
+        HashSet<Integer> set = new HashSet<>();
+        for(int i=0; i<nums.length ;i++){
+            if(set.contains(nums[i])){
+                return true;
+            }
+            set.add(nums[i]);
+        }
+        return false;
+    }    
+
 }
