@@ -1,13 +1,14 @@
+import java.util.*;
 class Solution {
     public boolean isHappy(int n) {
-        int x = n;
-        int y = Sum(n);
-
-        while (y != 1 && x != y) {
-            x = Sum(x);
-            y = Sum(Sum(y));
+        HashSet<Integer> set = new HashSet<>();
+        while(n!=1){
+            if(!set.add(n)){
+                return false;
+            }
+            n=Sum(n);
         }
-        return y == 1;
+        return true;
     }
 
     public int Sum(int n) {
