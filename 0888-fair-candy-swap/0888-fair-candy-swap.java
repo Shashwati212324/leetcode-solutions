@@ -1,26 +1,26 @@
+import java.util.*;
+
 class Solution {
     public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
-        HashSet<Integer> set = new HashSet<>();
-        int sumA =0, sumB =0;
-        for(int i =0; i<aliceSizes.length ; i++){
-            sumA+=aliceSizes[i];
-        }
-        for(int i =0; i<bobSizes.length ; i++){
-            sumB+=bobSizes[i];
-        }
-        int diff = (sumA-sumB)/2;
-        HashSet<Integer> Aset = new HashSet<>();
-        HashSet<Integer> Bset = new HashSet<>();
+        int sumA = 0, sumB = 0;
 
-        for(int b: bobSizes){
-            Bset.add(b);
+        for (int a : aliceSizes) sumA += a;
+        for (int b : bobSizes) sumB += b;
+
+        int diff = (sumA - sumB) / 2;
+
+        HashSet<Integer> bobSet = new HashSet<>();
+        for (int b : bobSizes) {
+            bobSet.add(b);
         }
-        for(int a : aliceSizes){
-            int y = a-diff;
-            if(Bset.contains(y)){
-                return new int[]{a,y};
+
+        for (int x : aliceSizes) {
+            int y = x - diff;
+            if (bobSet.contains(y)) {
+                return new int[]{x, y};
             }
         }
-        return new int[0];
+
+        return new int[0]; // guaranteed answer exists
     }
 }
