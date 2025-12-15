@@ -104,6 +104,7 @@ My solutions to LeetCode problems
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +188,7 @@ My solutions to LeetCode problems
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -353,6 +355,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
