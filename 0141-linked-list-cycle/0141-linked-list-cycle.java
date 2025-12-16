@@ -11,18 +11,43 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        if(head == null|| head.next==null){
+        //---------------Approach -1 Linked List -------------------
+        // if(head == null|| head.next==null){
+        //     return 0;
+        // }
+        // ListNode fast = head;
+        // ListNode slow = head;
+        // int count =0;
+        // while(fast != null && fast.next != null){
+        //     fast = fast.next.next;
+        //     slow=slow.next;
+        //     if(slow==fast){
+        //         count =1;
+        //         slow = slow.next;
+        //         while(slow!=fast){
+        //             count++;
+        //             slow=slow.next;
+        //         }
+        //         count = count+1;
+        //     }
+            
+        // }
+        // return count;
+
+        //---------------Approach -2 HashSet--------------
+        if(head == null || head.next == null){
             return false;
         }
-        ListNode fast = head;
-        ListNode slow = head;
-        while(fast != null && fast.next != null){
-            fast = fast.next.next;
-            slow=slow.next;
-            if(slow==fast){
+        ListNode temp = head;
+        HashSet<ListNode> set = new HashSet<>();
+        while(temp!= null){
+            if(set.contains(temp)){
                 return true;
             }
+            set.add(temp);
+            temp = temp.next;
         }
         return false;
+         
     }
 }
