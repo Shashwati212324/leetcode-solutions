@@ -47,6 +47,7 @@ My solutions to LeetCode problems
 | [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
@@ -117,6 +118,7 @@ My solutions to LeetCode problems
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1207-unique-number-of-occurrences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
