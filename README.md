@@ -45,6 +45,7 @@ My solutions to LeetCode problems
 | [0043-multiply-strings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -177,6 +178,7 @@ My solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -203,6 +205,7 @@ My solutions to LeetCode problems
 | [0202-happy-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
