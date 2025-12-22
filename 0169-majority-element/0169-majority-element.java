@@ -48,17 +48,29 @@ public class Solution {
         // }
         // return finalee; 
 // APPROACH - 3 - MOORE VOTING ALGORITHM - ---- O(n)
-    int count = 0;
-    int candidate = 0;
+    // int count = 0;
+    // int candidate = 0;
 
-    for (int num : nums) {
-        if (count == 0) {
-            candidate = num;
+    // for (int num : nums) {
+    //     if (count == 0) {
+    //         candidate = num;
+    //     }
+    //     count += (num == candidate) ? 1 : -1;
+    // }
+
+    // return candidate;    
+    //APPROACH -4 - HASHMAP
+       int x = nums.length/2;
+       HashMap<Integer, Integer> map = new HashMap<>();
+       for(int i=0 ; i<nums.length ; i++){
+        map.put(nums[i], map.getOrDefault(nums[i],0)+1);
+       }
+       for(int i:map.keySet()){
+        if(map.get(i)>x){
+            return i;
         }
-        count += (num == candidate) ? 1 : -1;
-    }
-
-    return candidate;           
+       }
+       return -1;
         
     }
 }
