@@ -102,6 +102,7 @@ My solutions to LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
@@ -201,6 +202,7 @@ My solutions to LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0013-roman-to-integer) |
