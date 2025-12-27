@@ -132,6 +132,7 @@ My solutions to LeetCode problems
 | [1207-unique-number-of-occurrences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -362,6 +363,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
