@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | [0840-magic-squares-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -146,6 +147,7 @@ My solutions to LeetCode problems
 | [1207-unique-number-of-occurrences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -394,6 +396,7 @@ My solutions to LeetCode problems
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Prefix Sum
 |  |
