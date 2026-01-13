@@ -1,50 +1,41 @@
 class MinStack {
-    private int[] data;
-    private int[] minData;
-    private int ptr;
+
+    private long[] stack;
+    private int top;
+    private long min;
 
     public MinStack() {
-        data = new int[1000];
-        minData = new int[1000];
-        ptr = -1;
+        stack = new long[30000];
+        top = -1;
     }
-    
+
     public void push(int val) {
-        if(ptr == data.length-1)return;
-        data[++ptr] = val;
-        if (ptr == 0) {
-            minData[ptr] = val;
+        if (top == -1) {
+            stack[++top] = val;
+            min = val;
+        } else if (val < min) {
+            stack[++top] = 2L * val - min;  // encode
+            min = val;
         } else {
-            minData[ptr] = Math.min(val, minData[ptr - 1]);
+            stack[++top] = val;
         }
     }
-    
+
     public void pop() {
-        if(ptr == -1){
-            return;
+        long popped = stack[top--];
+        if (popped < min) {
+            min = 2 * min - popped;
         }
-        ptr--;
     }
-    
+
     public int top() {
-        if(ptr == -1){
-            return -1;
+        if (stack[top] < min) {
+            return (int) min;
         }
-        return data[ptr];
-        
+        return (int) stack[top];
     }
-    
+
     public int getMin() {
-        if (ptr == -1) return -1;
-        return minData[ptr];
+        return (int) min;
     }
 }
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(val);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
