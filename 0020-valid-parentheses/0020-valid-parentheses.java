@@ -1,6 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
-        //s=s.trim();
+        s=s.trim();
         if(s.equals(""))return true;
         Stack<Character> stack= new Stack<>();
         for(int i =0; i<s.length();i++){
