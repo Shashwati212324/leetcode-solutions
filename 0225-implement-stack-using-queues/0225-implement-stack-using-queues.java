@@ -2,45 +2,44 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class MyStack {
+    static class Queue{
+        int[] arr= new int [100];
+        int front=0, rear=0;
 
-    Queue<Integer> q1;
-    Queue<Integer> q2;
-
-    public MyStack() {
-        q1 = new LinkedList<>();
-        q2 = new LinkedList<>();
-    }
-
-    // Push element onto stack
-    public void push(int x) {
-        // Push into empty queue q2
-        q2.offer(x);
-
-        // Move all elements from q1 to q2
-        while (!q1.isEmpty()) {
-            q2.offer(q1.poll());
+        public void enqueue(int x){
+            arr[rear++]=x;
         }
-
-        // Swap q1 and q2
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
+        public int dequeue(){
+            return arr[front++];
+        }
+        public boolean isEmpty(){
+            return front==rear;
+        }
+        public int size(){
+            return rear-front;
+        }
+        public int peek(){
+            return arr[front];
+        }
     }
-
-    // Removes the element on top of the stack
-    public int pop() {
-        return q1.poll();
+    Queue q= new Queue();
+    public void push(int x){
+        int size=q.size();
+        q.enqueue(x);
+        for(int i =0; i<size;i++){
+            q.enqueue(q.dequeue());
+        }
     }
-
-    // Get the top element
-    public int top() {
-        return q1.peek();
+    public int pop(){
+        return q.dequeue();
     }
-
-    // Returns whether the stack is empty
-    public boolean empty() {
-        return q1.isEmpty();
+    public int top(){
+        return q.peek();
     }
+    public boolean empty(){
+        return q.isEmpty();
+    }
+    
 }
 
 
