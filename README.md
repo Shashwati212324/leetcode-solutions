@@ -60,6 +60,7 @@ My solutions to LeetCode problems
 | [0409-longest-palindrome](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -94,6 +95,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0043-multiply-strings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Recursion
@@ -206,6 +208,7 @@ My solutions to LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -332,6 +335,7 @@ My solutions to LeetCode problems
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
