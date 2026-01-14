@@ -168,6 +168,7 @@ My solutions to LeetCode problems
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -188,6 +189,7 @@ My solutions to LeetCode problems
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -501,4 +503,12 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
