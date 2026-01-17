@@ -36,6 +36,7 @@ My solutions to LeetCode problems
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -168,6 +169,7 @@ My solutions to LeetCode problems
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -413,6 +415,7 @@ My solutions to LeetCode problems
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Prefix Sum
 |  |
 | ------- |
