@@ -156,6 +156,7 @@ My solutions to LeetCode problems
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
@@ -344,6 +345,7 @@ My solutions to LeetCode problems
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Design
@@ -379,6 +381,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
