@@ -47,28 +47,23 @@ class Solution {
 
     //APPROACH-2 MONOTONIC STACK
         Stack<Integer> stack = new Stack<>();
-    Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i<nums2.length; i++){
+            while(!stack.isEmpty() && nums2[i]>stack.peek()){
+                map.put(stack.pop(),nums2[i]);
+            }
+            stack.push(nums2[i]);
+        } 
 
-    // Step 1: Process nums2
-    for (int num : nums2) {
-        while (!stack.isEmpty() && num > stack.peek()) {
-            map.put(stack.pop(), num);
+        while(!stack.isEmpty()){
+            map.put(stack.pop(),-1);
         }
-        stack.push(num);
+        int[] ans= new int[nums1.length];
+        for(int i =0; i<nums1.length;i++){
+            ans[i]= map.get(nums1[i]);
+        }
+        return ans;
+        
     }
-
-    // Step 2: Remaining elements have no next greater
-    while (!stack.isEmpty()) {
-        map.put(stack.pop(), -1);
-    }
-
-    // Step 3: Build answer for nums1
-    int[] ans = new int[nums1.length];
-    for (int i = 0; i < nums1.length; i++) {
-        ans[i] = map.get(nums1[i]);
-    }
-
-    return ans;
-}
     
 }
