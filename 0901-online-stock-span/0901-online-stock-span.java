@@ -1,19 +1,41 @@
 class StockSpanner {
-    Stack<int[]> stack;
-    
+    //AP 1 - stack
+
+    // Stack<int[]> stack;
+    // public StockSpanner() {
+    //     stack = new Stack<>();       
+    // }
+    // public int next(int price) {
+    //     int span=1;
+    //     while(!stack.isEmpty() && stack.peek()[0]<=price){
+    //         span+=stack.peek()[1];
+    //         stack.pop();            
+    //     }
+    //     stack.push(new int[]{price,span});
+    //     return span;
+
+    //AP - 2 - ArrayList
+    ArrayList<Integer> ar;
+
     public StockSpanner() {
-        stack = new Stack<>();       
+        ar= new ArrayList<>();
     }
-    
     public int next(int price) {
-        int span=1;
-        while(!stack.isEmpty() && stack.peek()[0]<=price){
-            span+=stack.peek()[1];
-            stack.pop();            
+        
+        ar.add(price);
+        int span = 1;
+        for(int i=ar.size()-2;i>=0;i--){
+            if(ar.get(i)<=price){
+                span++;
+            }
+            else{
+                break;
+            }
         }
-        stack.push(new int[]{price,span});
         return span;
-    }
+
+
+    }   
 }
 
 /**
