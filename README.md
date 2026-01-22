@@ -100,6 +100,7 @@ My solutions to LeetCode problems
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -180,6 +181,7 @@ My solutions to LeetCode problems
 | [3453-separate-squares-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -286,6 +288,7 @@ My solutions to LeetCode problems
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -334,6 +337,7 @@ My solutions to LeetCode problems
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -370,6 +374,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0146-lru-cache](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -525,6 +530,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -537,4 +543,8 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
