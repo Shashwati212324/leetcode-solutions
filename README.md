@@ -58,6 +58,7 @@ My solutions to LeetCode problems
 | [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
@@ -111,6 +112,7 @@ My solutions to LeetCode problems
 | [0231-power-of-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -348,6 +350,7 @@ My solutions to LeetCode problems
 | [0225-implement-stack-using-queues](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
