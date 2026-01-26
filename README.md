@@ -101,6 +101,7 @@ My solutions to LeetCode problems
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -177,6 +178,7 @@ My solutions to LeetCode problems
 | [1975-maximum-matrix-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -426,6 +428,7 @@ My solutions to LeetCode problems
 | [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
 |  |
