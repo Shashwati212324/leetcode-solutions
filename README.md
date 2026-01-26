@@ -384,6 +384,7 @@ My solutions to LeetCode problems
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
@@ -396,6 +397,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Reservoir Sampling
@@ -421,6 +423,7 @@ My solutions to LeetCode problems
 | [0225-implement-stack-using-queues](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
