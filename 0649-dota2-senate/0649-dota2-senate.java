@@ -1,0 +1,33 @@
+class Solution {
+    public String predictPartyVictory(String senate) {
+        Queue<Integer> radiant = new ArrayDeque<>();
+        Queue<Integer> dire = new ArrayDeque<>();
+
+        int n = senate.length();
+
+        // store indices
+        for (int i = 0; i < n; i++) {
+            if (senate.charAt(i) == 'R') {
+                radiant.offer(i);
+            } else {
+                dire.offer(i);
+            }
+        }
+
+        // simulate rounds
+        while (!radiant.isEmpty() && !dire.isEmpty()) {
+            int r = radiant.poll();
+            int d = dire.poll();
+
+            if (r < d) {
+                // Radiant bans Dire
+                radiant.offer(r + n);
+            } else {
+                // Dire bans Radiant
+                dire.offer(d + n);
+            }
+        }
+
+        return radiant.isEmpty() ? "Dire" : "Radiant";
+    }
+}
