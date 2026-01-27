@@ -3,31 +3,30 @@ class Solution {
         Queue<Integer> radiant = new ArrayDeque<>();
         Queue<Integer> dire = new ArrayDeque<>();
 
-        int n = senate.length();
 
-        // store indices
-        for (int i = 0; i < n; i++) {
-            if (senate.charAt(i) == 'R') {
+        for(int i=0;i<senate.length();i++){
+            if(senate.charAt(i)==('R')){
                 radiant.offer(i);
-            } else {
+            }
+            else{
                 dire.offer(i);
             }
         }
-
-        // simulate rounds
-        while (!radiant.isEmpty() && !dire.isEmpty()) {
-            int r = radiant.poll();
-            int d = dire.poll();
-
-            if (r < d) {
-                // Radiant bans Dire
-                radiant.offer(r + n);
-            } else {
-                // Dire bans Radiant
-                dire.offer(d + n);
+        int n= senate.length();
+        while(!radiant.isEmpty() && !dire.isEmpty()){
+            if(radiant.peek() < dire.peek()){
+                dire.poll();
+                n= n+1;
+                radiant.poll();
+                radiant.offer(n);
+            }else{
+                radiant.poll();
+                n=n+1;
+                dire.poll();
+                dire.offer(n);
             }
         }
-
-        return radiant.isEmpty() ? "Dire" : "Radiant";
+        if(!dire.isEmpty())return "Dire";
+        return "Radiant";
     }
 }
