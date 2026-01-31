@@ -150,6 +150,7 @@ My solutions to LeetCode problems
 | [0523-continuous-subarray-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -531,6 +532,7 @@ My solutions to LeetCode problems
 | [0219-contains-duplicate-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
