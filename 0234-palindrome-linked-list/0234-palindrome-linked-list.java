@@ -10,49 +10,66 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null){
-            return true;
+        //APPROACH - LINKED LIST
+    //     if(head == null || head.next == null){
+    //         return true;
+    //     }
+    //     ListNode l1 = head, l2 =midList(head);
+    //     ListNode l3 = reverse(l2);
+    //     ListNode f=l1, s =l3;
+    //     while(f!= null && s!= null){
+    //         if(f.val != s.val){
+    //             return false;
+    //         }
+    //         f = f.next;
+    //         s = s.next;
+    //     }
+    //     return true;
+    // }
+    // public ListNode midList(ListNode node){
+    //     if(node==null || node.next == null){
+    //         return node;
+    //     }
+    //     ListNode f =node, s=node , t=null;
+        
+    //     while(f!= null && f.next != null){
+    //         t=s;
+    //         s=s.next;
+    //         f=f.next.next;
+    //     }
+    //     if(t.next!= null){
+    //         t.next =null;
+    //     }
+    //     return s;
+
+    // }
+    // public ListNode reverse(ListNode node){
+    //     if(node== null || node.next == null){
+    //         return node;
+    //     }
+    //     ListNode pre = null, curr = node;
+    //     while(curr!= null){
+    //         ListNode temp = curr.next;
+    //         curr.next = pre;
+    //         pre = curr;
+    //         curr = temp;
+    //     }
+    //     return pre;
+
+    // APPROACH -2 : DEQUE
+        Deque<Integer> dq = new ArrayDeque<>();
+        ListNode temp = head;
+        while (temp != null) {
+            dq.offerLast(temp.val);
+            temp = temp.next;
         }
-        ListNode l1 = head, l2 =midList(head);
-        ListNode l3 = reverse(l2);
-        ListNode f=l1, s =l3;
-        while(f!= null && s!= null){
-            if(f.val != s.val){
+
+        while (dq.size() > 1) {
+            if (!dq.pollFirst().equals(dq.pollLast())) {
                 return false;
             }
-            f = f.next;
-            s = s.next;
         }
         return true;
-    }
-    public ListNode midList(ListNode node){
-        if(node==null || node.next == null){
-            return node;
-        }
-        ListNode f =node, s=node , t=null;
-        
-        while(f!= null && f.next != null){
-            t=s;
-            s=s.next;
-            f=f.next.next;
-        }
-        if(t.next!= null){
-            t.next =null;
-        }
-        return s;
 
-    }
-    public ListNode reverse(ListNode node){
-        if(node== null || node.next == null){
-            return node;
-        }
-        ListNode pre = null, curr = node;
-        while(curr!= null){
-            ListNode temp = curr.next;
-            curr.next = pre;
-            pre = curr;
-            curr = temp;
-        }
-        return pre;
     }
 }
