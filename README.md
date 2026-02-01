@@ -195,6 +195,7 @@ My solutions to LeetCode problems
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -267,6 +268,7 @@ My solutions to LeetCode problems
 | [2141-maximum-running-time-of-n-computers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -337,6 +339,7 @@ My solutions to LeetCode problems
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Linked List
 |  |
 | ------- |
