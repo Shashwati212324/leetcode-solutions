@@ -166,6 +166,7 @@ My solutions to LeetCode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -219,6 +220,7 @@ My solutions to LeetCode problems
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0792-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -487,6 +489,7 @@ My solutions to LeetCode problems
 | [0560-subarray-sum-equals-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -539,6 +542,7 @@ My solutions to LeetCode problems
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
