@@ -177,6 +177,7 @@ My solutions to LeetCode problems
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -447,6 +448,7 @@ My solutions to LeetCode problems
 | [0649-dota2-senate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -547,6 +549,7 @@ My solutions to LeetCode problems
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -572,6 +575,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Brainteaser
 |  |
@@ -585,6 +589,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -603,6 +608,7 @@ My solutions to LeetCode problems
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
