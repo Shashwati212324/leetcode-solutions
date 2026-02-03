@@ -152,6 +152,7 @@ My solutions to LeetCode problems
 | [0523-continuous-subarray-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -368,6 +369,7 @@ My solutions to LeetCode problems
 | [0382-linked-list-random-node](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -405,6 +407,7 @@ My solutions to LeetCode problems
 | [0225-implement-stack-using-queues](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
@@ -445,6 +448,7 @@ My solutions to LeetCode problems
 | [0225-implement-stack-using-queues](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
