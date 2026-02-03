@@ -34,18 +34,15 @@ class Solution {
         Deque<Character> dq = new ArrayDeque<>();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-
             if (Character.isLetterOrDigit(ch)) {
                 dq.offerLast(Character.toLowerCase(ch));
             }
         }
-
         while (dq.size() > 1) {
             if (!dq.pollFirst().equals(dq.pollLast())) {
                 return false;
             }
         }
-
         return true;
         
     }
