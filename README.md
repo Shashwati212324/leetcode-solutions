@@ -569,11 +569,13 @@ My solutions to LeetCode problems
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Monotonic Queue
@@ -601,6 +603,7 @@ My solutions to LeetCode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Segment Tree
 |  |
