@@ -216,6 +216,7 @@ My solutions to LeetCode problems
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,12 +329,14 @@ My solutions to LeetCode problems
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -506,6 +509,7 @@ My solutions to LeetCode problems
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -609,6 +613,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
