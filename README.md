@@ -79,6 +79,7 @@ My solutions to LeetCode problems
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +330,7 @@ My solutions to LeetCode problems
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -344,12 +346,14 @@ My solutions to LeetCode problems
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
