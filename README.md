@@ -80,6 +80,7 @@ My solutions to LeetCode problems
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -331,6 +332,7 @@ My solutions to LeetCode problems
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -513,6 +515,7 @@ My solutions to LeetCode problems
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
