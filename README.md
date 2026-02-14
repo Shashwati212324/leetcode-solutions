@@ -475,6 +475,7 @@ My solutions to LeetCode problems
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0799-champagne-tower](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
