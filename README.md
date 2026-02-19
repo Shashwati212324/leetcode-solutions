@@ -66,6 +66,7 @@ My solutions to LeetCode problems
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -251,6 +252,7 @@ My solutions to LeetCode problems
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0925-long-pressed-name) |
