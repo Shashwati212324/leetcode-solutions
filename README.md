@@ -99,6 +99,7 @@ My solutions to LeetCode problems
 | [0693-binary-number-with-alternating-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
