@@ -136,6 +136,7 @@ My solutions to LeetCode problems
 | [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -295,6 +296,7 @@ My solutions to LeetCode problems
 | [0012-integer-to-roman](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -528,6 +530,7 @@ My solutions to LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0867-transpose-matrix) |
