@@ -136,6 +136,7 @@ My solutions to LeetCode problems
 | [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -226,6 +227,7 @@ My solutions to LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -526,6 +528,7 @@ My solutions to LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
