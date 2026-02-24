@@ -110,6 +110,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -139,6 +140,7 @@ My solutions to LeetCode problems
 | [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -536,6 +538,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
