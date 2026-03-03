@@ -10,12 +10,18 @@ class Solution {
         //     return false;
         // }
         // return isPowerOfFour(n/4);
-        if(n==0){
-            return false;
-        }
-        while(n%4==0){
-            n=n/4;
-        }
-        return n==1;
+
+        //number system
+        // if(n==0){
+        //     return false;
+        // }
+        // while(n%4==0){
+        //     n=n/4;
+        // }
+        // return n==1;
+
+        //optimized
+       
+        return n > 0 && (n & (n - 1)) == 0 && (n - 1) % 3 == 0;
     }
 }
