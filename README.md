@@ -78,6 +78,7 @@ My solutions to LeetCode problems
 | [1205-defanging-an-ip-address](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -118,6 +119,7 @@ My solutions to LeetCode problems
 | [0844-backspace-string-compare](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -135,6 +137,7 @@ My solutions to LeetCode problems
 | [0234-palindrome-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
