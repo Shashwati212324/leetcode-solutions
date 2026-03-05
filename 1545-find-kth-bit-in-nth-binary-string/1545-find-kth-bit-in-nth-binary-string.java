@@ -1,26 +1,23 @@
 class Solution {
     public char findKthBit(int n, int k) {
-        return dfs(n, k);
+        return solve(n,k);
     }
+    public static char solve(int n, int k){
+        int len = (1<<n)-1;
+        int mid = len/2 +1;
+        if(k == 1)return '0';
 
-    private char dfs(int n, int k) {
-        if (n == 1) return '0';
-
-        int len = (1 << n) - 1;      // 2^n - 1
-        int mid = (len / 2) + 1;     // 2^(n-1)
-
-        if (k == mid) return '1';
-
-        if (k < mid) {
-            return dfs(n - 1, k);
-        } else {
-            int mirror = len - k + 1;      // position in left half
-            char bit = dfs(n - 1, mirror); // get bit from S(n-1)
-            return invert(bit);            // right half is inverted
+        if(k==mid)return '1';
+        else if(k<mid){
+            return solve(n-1,k);
         }
-    }
-
-    private char invert(char c) {
-        return (c == '0') ? '1' : '0';
+        else{
+            int mirror = len - k + 1;
+            char c = solve(n-1, mirror);
+            c = (c=='0')?'1':'0';
+            return c;
+        }
+        
+        
     }
 }
