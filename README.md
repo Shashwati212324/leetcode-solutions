@@ -77,6 +77,7 @@ My solutions to LeetCode problems
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -583,6 +584,7 @@ My solutions to LeetCode problems
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0800-letter-case-permutation) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Greedy
 |  |
 | ------- |
