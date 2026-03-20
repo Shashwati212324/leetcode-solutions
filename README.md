@@ -242,6 +242,7 @@ My solutions to LeetCode problems
 | [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -315,6 +316,7 @@ My solutions to LeetCode problems
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -573,6 +575,7 @@ My solutions to LeetCode problems
 | [1975-maximum-matrix-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
 | ------- |
