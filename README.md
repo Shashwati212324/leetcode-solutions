@@ -243,6 +243,7 @@ My solutions to LeetCode problems
 | [3454-separate-squares-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -397,6 +398,7 @@ My solutions to LeetCode problems
 | [1925-count-square-sum-triples](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
@@ -558,6 +560,7 @@ My solutions to LeetCode problems
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2906-construct-product-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -578,6 +581,7 @@ My solutions to LeetCode problems
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Backtracking
 |  |
