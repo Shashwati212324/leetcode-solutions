@@ -201,6 +201,7 @@ My solutions to LeetCode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -361,6 +362,7 @@ My solutions to LeetCode problems
 | [0888-fair-candy-swap](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -555,6 +557,7 @@ My solutions to LeetCode problems
 | [0560-subarray-sum-equals-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
