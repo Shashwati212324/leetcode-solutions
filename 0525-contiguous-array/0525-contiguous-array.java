@@ -17,19 +17,20 @@ class Solution {
         // return max;
 
         //optimized - hashmap - n
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(o,-1);
-        int max =0, count =0;
-        for(int i =0; i<nums.length; i++){
-            count += (nums[i]==1?1:-1);
-            if(map.containsKey(count)){
-                max = Math.max(max, i-map.get(count));
-            }
-            else{
-                map.put(count,i);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0,-1);
+
+        int len =0, sum=0;
+        for(int i=0; i<nums.length; i++){
+            sum += nums[i]==1?1:-1;
+
+            if(map.containsKey(sum)){
+               len = Math.max(len, i-map.get(sum));
+            }else{
+            map.put(sum,i);
             }
         }
-        return max;
+        return len;
 
     }
 }                
