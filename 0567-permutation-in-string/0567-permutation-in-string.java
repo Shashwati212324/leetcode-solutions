@@ -1,31 +1,25 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int n = s1.length();
-        int m = s2.length();
-        
-        if (n > m) return false;
-
-        int[] freq1 = new int[26];  // s1 count
-        int[] freq2 = new int[26];  // window count
-
-        for (char c : s1.toCharArray())
-            freq1[c - 'a']++;
-
-        // first window
-        for (int i = 0; i < n; i++)
-            freq2[s2.charAt(i) - 'a']++;
-
-        if (Arrays.equals(freq1, freq2)) return true;
-
-        // sliding window
-        for (int i = n; i < m; i++) {
-            freq2[s2.charAt(i) - 'a']++;         // add new char
-            freq2[s2.charAt(i - n) - 'a']--;     // remove old char
-
-            if (Arrays.equals(freq1, freq2))
-                return true;
+        if(s1.length()>s2.length())return false;
+        HashMap<Character, Integer> map1 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
+        for(int i=0; i<s1.length();i++){
+            map1.put(s1.charAt(i),map1.getOrDefault(s1.charAt(i),0)+1);
+            map2.put(s2.charAt(i),map2.getOrDefault(s2.charAt(i),0)+1);
         }
+        if(map2.equals(map1))return true;
+       
+        int n= s1.length()-1;
+        int i=0;
+        for(int j =n+1;j<s2.length();j++){
+           map2.put(s2.charAt(j), map2.getOrDefault(s2.charAt(j),0)+1);
+           map2.put(s2.charAt(i),map2.get(s2.charAt(i))-1);
+           if(map2.get(s2.charAt(i))==0)map2.remove(s2.charAt(i));
 
-        return false;
+           if(map2.equals(map1))return true;
+           i++;
+           
+        }
+        return map2.equals(map1);
     }
 }
