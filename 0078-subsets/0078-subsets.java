@@ -1,18 +1,17 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<Integer> arl = new ArrayList<>();
-        return subsetArray(nums, arl, 0);
+       List<List<Integer>> answer = new ArrayList<>();
+       ArrayList<Integer> list = new ArrayList<>();
+       int s =0;
+       subsetDuplicates(list, answer, nums, s);
+       return answer;
     }
-    public List<List<Integer>> subsetArray(int[] arr, List<Integer> arl, int i ) {
-        List<List<Integer>> ar= new ArrayList<>();
-        if(i == arr.length){
-            ar.add(new ArrayList<>(arl));
-            return ar;
+    public void subsetDuplicates(ArrayList<Integer> list, List<List<Integer>> answer, int[] nums, int start){
+        answer.add(new ArrayList<>(list));
+        for(int i = start; i<nums.length; i++){
+            list.add(nums[i]);
+            subsetDuplicates(list, answer, nums, i+1);
+            list.remove(list.size()-1);
         }
-        arl.add(arr[i]);
-        ar.addAll(subsetArray(arr,arl,i+1));
-        arl.remove(arl.size()-1);
-        ar.addAll(subsetArray(arr,arl,i+1));
-        return ar;
     }
 }
