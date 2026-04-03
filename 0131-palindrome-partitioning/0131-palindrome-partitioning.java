@@ -1,30 +1,34 @@
 class Solution {
-    List<List<String>> list = new ArrayList<>();
-    List<String> temp = new ArrayList<>();
+    List<List<String>> answer = new ArrayList<>();
+    ArrayList<String> list = new ArrayList<>();
     public List<List<String>> partition(String s) {
-        backtrack(s, 0);
-        return list;
+        backtrack(s,0);
+        return answer;        
     }
-    public void backtrack(String s, int index){
-        if(index == s.length()){
-            list.add(new ArrayList<>(temp));
+    public void backtrack(String s, int start){
+        if (start == s.length()) {
+            answer.add(new ArrayList<>(list));
             return;
         }
-        for(int i = index; i<s.length();i++){
-            if(isPalindrome(s,index,i)){
-                temp.add(s.substring(index,i+1));
-                backtrack(s,i+1);
-                temp.remove(temp.size()-1);
+
+        for (int i = start; i < s.length(); i++) {
+            if (palindromeCheck(s, start, i)) {
+                list.add(s.substring(start, i + 1));
+                backtrack(s, i + 1);
+                list.remove(list.size() - 1);
             }
         }
+
     }
-    private boolean isPalindrome(String s, int l, int r) {
-        while (l < r) {
-            if (s.charAt(l) != s.charAt(r)) return false;
-            l++;
-            r--;
+    public boolean palindromeCheck(String str, int s, int e){
+        
+        int i=s, j = e;
+        while(i<j){
+            if(str.charAt(i)!=str.charAt(j))return false;
+            i++;
+            j--;
         }
         return true;
     }
-
+    
 }
