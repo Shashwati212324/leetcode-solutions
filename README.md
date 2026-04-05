@@ -163,6 +163,7 @@ My solutions to LeetCode problems
 | [0066-plus-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -284,6 +285,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -306,6 +308,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
