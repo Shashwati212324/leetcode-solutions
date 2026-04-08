@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | [0523-continuous-subarray-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -210,6 +211,7 @@ My solutions to LeetCode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -326,6 +328,7 @@ My solutions to LeetCode problems
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0888-fair-candy-swap](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -409,6 +412,7 @@ My solutions to LeetCode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -567,6 +571,7 @@ My solutions to LeetCode problems
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -704,6 +709,7 @@ My solutions to LeetCode problems
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -768,4 +774,5 @@ My solutions to LeetCode problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
