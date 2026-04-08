@@ -182,6 +182,7 @@ My solutions to LeetCode problems
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
@@ -319,6 +320,7 @@ My solutions to LeetCode problems
 | [0217-contains-duplicate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -360,6 +362,7 @@ My solutions to LeetCode problems
 | [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -404,12 +407,14 @@ My solutions to LeetCode problems
 | [0190-reverse-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -697,6 +702,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -747,6 +753,7 @@ My solutions to LeetCode problems
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -760,4 +767,5 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
