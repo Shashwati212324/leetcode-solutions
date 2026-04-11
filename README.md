@@ -160,6 +160,7 @@ My solutions to LeetCode problems
 | [0046-permutations](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -406,6 +407,7 @@ My solutions to LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -547,6 +549,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0494-target-sum) |
