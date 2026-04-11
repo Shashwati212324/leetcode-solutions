@@ -65,6 +65,7 @@ My solutions to LeetCode problems
 | [0242-valid-anagram](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -369,6 +370,7 @@ My solutions to LeetCode problems
 | [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -422,6 +424,7 @@ My solutions to LeetCode problems
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3583-count-special-triplets](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3583-count-special-triplets) |
@@ -536,6 +539,7 @@ My solutions to LeetCode problems
 | [0225-implement-stack-using-queues](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
