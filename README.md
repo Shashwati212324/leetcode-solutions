@@ -15,6 +15,7 @@ My solutions to LeetCode problems
 | [0067-add-binary](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -174,6 +175,7 @@ My solutions to LeetCode problems
 | [0137-single-number-ii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -432,6 +434,7 @@ My solutions to LeetCode problems
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shashwati212324/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -574,6 +577,7 @@ My solutions to LeetCode problems
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Shashwati212324/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 ## Geometry
 |  |
