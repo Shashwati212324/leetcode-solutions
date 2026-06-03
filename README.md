@@ -692,6 +692,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -732,6 +733,7 @@ My solutions to LeetCode problems
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Segment Tree
 |  |
@@ -792,4 +794,5 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
