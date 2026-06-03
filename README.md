@@ -690,6 +690,7 @@ My solutions to LeetCode problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -699,6 +700,7 @@ My solutions to LeetCode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Shashwati212324/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -732,6 +734,7 @@ My solutions to LeetCode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -795,6 +798,7 @@ My solutions to LeetCode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shashwati212324/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
